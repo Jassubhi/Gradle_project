@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="LoginTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-11-23T17:28:07" hostname="DESKTOP-54RTLG0" time="15.085">
+<testsuite name="LoginTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-11-23T20:59:12" hostname="DESKTOP-54RTLG0" time="22.812">
   <properties/>
-  <testcase name="imageVerify" classname="LoginTest" time="8.37"/>
-  <testcase name="video_test" classname="LoginTest" time="6.714"/>
+  <testcase name="imageVerify" classname="LoginTest" time="13.597"/>
+  <testcase name="video_test" classname="LoginTest" time="9.164"/>
   <system-out><![CDATA[Buy iPhone 13 and iPhone 13 mini - Apple
 Image url: https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1629842667000
 Image info: iphone-13-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1629842667000
 AirPods - Apple
 https://www.apple.com/105/media/us/airpods/2021/625e09e3-e26e-49ed-a5ee-6e4eda5d275f/anim/supercut/medium_2x.mp4
 ]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 32827
+  <system-err><![CDATA[Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 23060
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Nov 23, 2021 9:28:09 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Nov 23, 2021 12:59:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 5007
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 48453
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Nov 23, 2021 9:28:17 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Nov 23, 2021 12:59:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>

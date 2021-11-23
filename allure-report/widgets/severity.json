@@ -1,0 +1,21 @@
+[ {
+  "uid" : "4fe157ae66cea960",
+  "name" : "imageVerify",
+  "time" : {
+    "start" : 1637701152375,
+    "stop" : 1637701165904,
+    "duration" : 13529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d62729e350e5b83f",
+  "name" : "video_test",
+  "time" : {
+    "start" : 1637701165956,
+    "stop" : 1637701175118,
+    "duration" : 9162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

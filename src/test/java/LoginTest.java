@@ -1,16 +1,13 @@
-import org.apache.groovy.json.internal.Chr;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
-import java.lang.*;
 
-import static org.testng.Assert.*;
+import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.assertNotNull;
 
 public class LoginTest {
-    WebElement element;
-
 
     @Test
     public void imageVerify() throws InterruptedException {

@@ -1,0 +1,64 @@
+{
+  "uid" : "77a1f81cd2089e4f",
+  "name" : "video_test",
+  "fullName" : "LoginTest.video_test",
+  "historyId" : "668889b09d6e2a5c934dbf1e488d9709",
+  "time" : {
+    "start" : 1637699783412,
+    "stop" : 1637699792721,
+    "duration" : 9309
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "video_test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "suite",
+    "value" : "Gradle test"
+  }, {
+    "name" : "subSuite",
+    "value" : "LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-54RTLG0"
+  }, {
+    "name" : "thread",
+    "value" : "13644@DESKTOP-54RTLG0.Test worker(16)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "77a1f81cd2089e4f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,51 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Gradle suite",
+    "children" : [ {
+      "name" : "Gradle test",
+      "children" : [ {
+        "name" : "LoginTest",
+        "children" : [ {
+          "name" : "imageVerify",
+          "uid" : "4fe157ae66cea960",
+          "parentUid" : "f14b50effc062ed1d5855f59eaeba6f2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1637701152375,
+            "stop" : 1637701165904,
+            "duration" : 13529
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 2,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "video_test",
+          "uid" : "d62729e350e5b83f",
+          "parentUid" : "f14b50effc062ed1d5855f59eaeba6f2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1637701165956,
+            "stop" : 1637701175118,
+            "duration" : 9162
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 2,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f14b50effc062ed1d5855f59eaeba6f2"
+      } ],
+      "uid" : "6edf7b6d6ec097775c478f55491c2a49"
+    } ],
+    "uid" : "350742de9190af4e6a560acc7ec0396c"
+  } ]
+}

@@ -1,0 +1,123 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-54RTLG0",
+    "children" : [ {
+      "name" : "15020@DESKTOP-54RTLG0.Test worker(1)",
+      "children" : [ {
+        "name" : "video_test",
+        "uid" : "d62729e350e5b83f",
+        "parentUid" : "c5ccd465a9fb80e8c186f10b4e9275d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637701165956,
+          "stop" : 1637701175118,
+          "duration" : 9162
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "imageVerify",
+        "uid" : "4fe157ae66cea960",
+        "parentUid" : "c5ccd465a9fb80e8c186f10b4e9275d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637701152375,
+          "stop" : 1637701165904,
+          "duration" : 13529
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c5ccd465a9fb80e8c186f10b4e9275d5"
+    }, {
+      "name" : "13644@DESKTOP-54RTLG0.Test worker(16)",
+      "children" : [ {
+        "name" : "video_test",
+        "uid" : "77a1f81cd2089e4f",
+        "parentUid" : "890d549f12754bb5e052db7d68401205",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637699783412,
+          "stop" : 1637699792721,
+          "duration" : 9309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "imageVerify",
+        "uid" : "b942611854346287",
+        "parentUid" : "890d549f12754bb5e052db7d68401205",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637699772721,
+          "stop" : 1637699783365,
+          "duration" : 10644
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "890d549f12754bb5e052db7d68401205"
+    }, {
+      "name" : "2988@DESKTOP-54RTLG0.Test worker(1)",
+      "children" : [ {
+        "name" : "video_test",
+        "uid" : "faa097715371c57b",
+        "parentUid" : "4ba440848e4b3424e7c580eaa98e4566",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637700264591,
+          "stop" : 1637700273682,
+          "duration" : 9091
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "imageVerify",
+        "uid" : "33fba4400b39c1a2",
+        "parentUid" : "4ba440848e4b3424e7c580eaa98e4566",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637700254041,
+          "stop" : 1637700264538,
+          "duration" : 10497
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4ba440848e4b3424e7c580eaa98e4566"
+    } ],
+    "uid" : "639f8a1c1c2a52bb36feeb296c7b1d9a"
+  } ]
+}

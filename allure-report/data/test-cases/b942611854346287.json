@@ -1,0 +1,64 @@
+{
+  "uid" : "b942611854346287",
+  "name" : "imageVerify",
+  "fullName" : "LoginTest.imageVerify",
+  "historyId" : "a13031602b4fcefa1f66bfdd62d9d724",
+  "time" : {
+    "start" : 1637699772721,
+    "stop" : 1637699783365,
+    "duration" : 10644
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "imageVerify"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "suite",
+    "value" : "Gradle test"
+  }, {
+    "name" : "subSuite",
+    "value" : "LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-54RTLG0"
+  }, {
+    "name" : "thread",
+    "value" : "13644@DESKTOP-54RTLG0.Test worker(16)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b942611854346287.json",
+  "parameterValues" : [ ]
+}
