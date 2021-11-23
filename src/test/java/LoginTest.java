@@ -6,10 +6,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 import java.lang.*;
 
-import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.*;
 
 public class LoginTest {
     WebElement element;
+
 
     @Test
     public void imageVerify() throws InterruptedException {
@@ -28,6 +29,18 @@ public class LoginTest {
         assertEquals("iphone-13-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1629842667000", image_info);
         driver.close();
 
+    }
 
+    @Test
+    public void video_test() throws InterruptedException {
+        System.setProperty("webdriver.chrome.driver","C://Users//jasme//driver96//chromedriver.exe");
+        WebDriver driver = new ChromeDriver();
+        driver.get("https://www.apple.com/airpods/");
+        System.out.println(driver.getTitle());
+        Thread.sleep(3000);
+        WebElement image = driver.findElement(By.xpath("//video[@id='airpods-3rd-gen-video']"));
+        System.out.println(image.getAttribute("src"));
+        assertNotNull(image,"video is playing");
+        driver.close();
     }
 }
